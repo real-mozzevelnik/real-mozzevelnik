@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Peer To Peer Chat in C](https://github.com/real-mozzevelnik/PeerToPeerChat)
 
-- 🌱 I’m currently learning **Golang, Echo, PortgreSQL, Docker**
+- 🌱 I’m currently learning **Golang, Echo, PostgreSQL, Docker**
 
 - 📫 How to reach me **vadimchumachenko123@gmail.com**
 
